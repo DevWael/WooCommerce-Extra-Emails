@@ -19,7 +19,7 @@ class EA_Settings {
 				'parent'      => true, //display as parent or child menu item
 				'parent_slug' => '', //required if parent is set to false
 				'capability'  => 'manage_options',
-				'name'        => esc_html__( 'Email Settings', 'wsd' ),
+				'name'        => esc_html__( 'Email Settings', 'wcea' ),
 				'slug'        => 'ea_settings',
 				'icon'        => '', //required if parent is set to true
 				'position'    => 6, //required if parent is set to true
