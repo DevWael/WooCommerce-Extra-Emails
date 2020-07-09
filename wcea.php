@@ -6,7 +6,7 @@
  * Version: 1.0
  * Author: Ahmad Wael
  * Author URI: https://github.com/DevWael/WooCommerce-Extra-Emails
- * License: A "Slug" license name e.g. GPL2
+ * License: GPL2
  */
 
 defined( 'ABSPATH' ) || exit; //prevent direct file access.
