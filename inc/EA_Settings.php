@@ -40,7 +40,7 @@ class EA_Settings {
 					//'placeholder' => 'new_input',
 				),
 				array(
-					'id'    => 'on_hold',
+					'id'    => 'processing',
 					'type'  => 'email',
 					'class' => 'ea_input',
 					'label' => __( 'Processing order', 'wcea' ),
